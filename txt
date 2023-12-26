@@ -1,0 +1,51 @@
+// json javascript object 
+
+import { faBirthdayCake } from "@fortawesome/free-solid-svg-icons"
+
+// json data is string 
+
+
+// json-server --watch db.json --port 5000
+
+// http method
+// get
+// put  all data update
+// patch
+// post
+// delete
+
+// localstorage =>  maximum data storage 10 MB
+// seesion storage
+// cookie 
+
+// localstorage method
+// setitem
+// getitem
+// removeitem
+// .clear
+
+
+// useEffect(()=>{},[])
+
+
+
+
+base64 website
+
+
+// stringfly used to object convert to json
+// parse used to json convert to object;
+//  json data all language used to 
+
+//  root protection
+//  HW
+
+
+
+
+date of faBirthdayCake
+
+gender 
+mobile no 
+profession
+Image
